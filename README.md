@@ -7,8 +7,6 @@ Skills: REACT JS / JAVASCRIPT / HTML / CSS / BOOTSTRAP / TAILWIND / MATERIAL UI 
 - 🌱 I’m currently learning React Js 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ajmain-nishu)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajmain-nishu&show_icons=true&count_private=true)  
