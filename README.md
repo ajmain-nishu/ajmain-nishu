@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ajmain Iqtidar Rahman Nishu
+### Hi there 👋, I'm Ajmain Iqtidar Rahman
 #### Front End Web Developer
 I'm a Front End Web Developer who is passionate about making error free websites. I have a passion for learning and sharing my knowledge with others. I am strategic, goal-oriented, and always work with an end goal in mind.
 
