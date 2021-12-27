@@ -33,41 +33,8 @@
 <br/>
 <h3 align="center">Github Stats</h3>
 
-<!-- ![Ajmain's github stats](https://github-readme-stats.vercel.app/api?username=ajmain-nishu&count_private=true&theme=tokyonight&hide=)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&count_private=true&theme=tokyonight&hide=&layout=compact) -->
-
-
-
-
-
-
-
-<!-- | <a href="https://github.com/ajmain-nishu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- | -->
-
-
-
-
 | <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmain-nishu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ajmain's github stats" /></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&layout=compact&theme=buefy&hide_border=true" /></p> |
 | ------------- | ------------- |
 
 
-
-
-
-<!-- | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmain-nishu&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide=&bg_color=radical" alt="Anurag's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&count_private=true&theme=buefy&hide=&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- | -->
-
-
-
-<!-- | <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmain-nishu&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide=&border_color=#1C6DD0&bg_color=" alt="Anurag's github stats" /></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&count_private=true&theme=buefy&hide=&layout=compact&border_color=#1C6DD0" /></p> |
-| ------------- | ------------- | -->
-
-
-
-
-
-
-<!-- <p align="center"><img src="assets/teeter.gif"></p> -->
-<p align="center"><img src="assets/coffee-smile.gif" width="150px" alt="hi"></p>
+<p align="center"><img src="assets/coffee-smile.gif" width="150px" alt="smile emoji with coffee"></p>
