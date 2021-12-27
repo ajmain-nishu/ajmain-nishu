@@ -1,9 +1,9 @@
 <h1 align="center"><img src="assets/hi.gif" width="28px" alt="hi"> Hey! Nice to see you</h1>
 
-<p>I'm Ajmain Iqtidar Rahman, a passionate self-taught <b>Front End Web Developer</b> from <img src="assets/bangladesh.png" width="18"/> Bangladesh. Everyone call me <b><i>Nishu</i></b>. My passion is to explore new technologies. I Spend most of time coding outstanding projects.<p></p>I am learn a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
+<p>I'm Ajmain Iqtidar Rahman, a passionate self-taught <b>Front-End Web Developer</b> from <img src="assets/bangladesh.png" width="18"/> Bangladesh. Everyone call me <b><i>Nishu</i></b>. My passion is to explore new technologies. I Spend most of time coding outstanding projects.<p></p>I am learn a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
 
-<img src="assets/jumping.gif" width="20px" alt="jumping github logo">Connect with me!
+<img src="assets/jumping.gif" width="20px" alt="jumping github logo">Connect with me !
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmainnishu/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ajmain.nishu7/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajmainnishu@gmail.com)
 
@@ -12,7 +12,7 @@
 :computer: &emsp;My most used line of code `console.log("hello world")`<br/>
 💼 &emsp;I'm currently seeking front-end web developer job.<br/>
 🌱 &emsp;I’m currently learning JavaScript related things.<br/>
-:e-mail: &emsp;How to reach me: ajmainnishu@gmail.com.<br/>
+:e-mail: &emsp;How to reach me: ajmainnishu@gmail.com<br/>
 ⚡ &emsp;Fun fact: Design is my hobby, Coding is my profession and Quality is top priority.
 
 ------------
