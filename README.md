@@ -1,6 +1,5 @@
-<h2 align="center"><img src="assets/hi.gif" width="24px" alt="hi"> Hey! Nice to see you <img src="assets/coffee-smile.gif" width="28px" alt="hi"></h2>
+<h2 align="center"><img src="assets/hi.gif" width="24px" alt="hi"> Hey! Nice to see you</h2>
 <hr/>
-
 
 <p>I'm Ajmain Iqtidar Rahman, a passionate self-taught <b>Front End Web Developer</b> from <img src="assets/bangladesh.png" width="18"/> Bangladesh. Everyone call me <b><i>Nishu</i></b>. My passion is to explore new technologies. I Spend most of time coding outstanding projects.</br></br>I am learn a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
@@ -74,4 +73,4 @@
 
 
 <!-- <p align="center"><img src="assets/teeter.gif"></p> -->
-<p align="center"><img src="assets/coffee-smile.gif" width="px" alt="hi"></p>
+<p align="center"><img src="assets/coffee-smile.gif" width="150px" alt="hi"></p>
