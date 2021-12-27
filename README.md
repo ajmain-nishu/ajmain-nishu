@@ -52,13 +52,21 @@
 
 
 
-<!-- | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmain-nishu&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide=&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&count_private=true&theme=buefy&hide=&layout=compact&hide_border=true" /></a> |
+
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmain-nishu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ajmain's github stats" /></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&layout=compact&theme=buefy&hide_border=true" /></p> |
+| ------------- | ------------- |
+
+
+
+
+
+<!-- | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmain-nishu&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide=&bg_color=radical" alt="Anurag's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&count_private=true&theme=buefy&hide=&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- | -->
 
 
 
-| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmain-nishu&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide=&hide_border=true" alt="Anurag's github stats" /></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&count_private=true&theme=buefy&hide=&layout=compact&hide_border=true" /></p> |
-| ------------- | ------------- |
+<!-- | <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmain-nishu&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide=&border_color=#1C6DD0&bg_color=" alt="Anurag's github stats" /></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&count_private=true&theme=buefy&hide=&layout=compact&border_color=#1C6DD0" /></p> |
+| ------------- | ------------- | -->
 
 
 
