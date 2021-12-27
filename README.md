@@ -52,8 +52,13 @@
 
 
 
-| <a href="https://github.com/ajmain-nishu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmain-nishu&count_private=true&theme=tokyonight&hide=" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&count_private=true&theme=tokyonight&hide=&layout=compact" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmain-nishu&count_private=true&theme=tokyonight&hide=" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&count_private=true&theme=tokyonight&hide=&layout=compact" /></a> |
 | ------------- | ------------- |
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ajmain-nishu&count_private=true&theme=tokyonight&hide=" alt="Anurag's github stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&count_private=true&theme=tokyonight&hide=&layout=compact"/></p>
 
 
 
