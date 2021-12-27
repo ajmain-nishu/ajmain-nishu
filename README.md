@@ -2,7 +2,7 @@
 <hr/>
 
 
-<p>I'm Ajmain Iqtidar Rahman, a passionate self-taught <b>Front End Web Developer</b> from <img src="assets/bangladesh.png" width="18"/> Bangladesh. EveryOne call me <b><i>Nishu</i></b>. My passion is to explore new technologies. I Spend most of time coding outstanding projects.</br></br>I am learn a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
+<p>I'm Ajmain Iqtidar Rahman, a passionate self-taught <b>Front End Web Developer</b> from <img src="assets/bangladesh.png" width="18"/> Bangladesh. Everyone call me <b><i>Nishu</i></b>. My passion is to explore new technologies. I Spend most of time coding outstanding projects.</br></br>I am learn a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
 
 
@@ -13,8 +13,8 @@
 
 :hearts: &emsp;I enjoy programming.<br/>
 :computer: &emsp;most used line of code `console.log("hello world")`<br/>
-💼 I'm currently seeking front-end web developer job.
-🌱 &nbsp;I’m currently learning JavaScript related things.
+💼 &emsp;I'm currently seeking front-end web developer job.<br/>
+🌱 &nbsp;I’m currently learning JavaScript related things.<br/>
 :e-mail: &emsp;How to reach me: ajmainnishu@gmail.com.<br/>
 ⚡ &emsp;Fun fact: Design is my hobby, Coding is my profession and Quality is top priority.
 
@@ -47,13 +47,21 @@
 
 
 
-| <a href="https://github.com/ajmain-nishu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+<!-- | <a href="https://github.com/ajmain-nishu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | -->
+
+
+
+<!-- | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmain-nishu&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide=&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&count_private=true&theme=buefy&hide=&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- | -->
+
+
+
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmain-nishu&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide=&hide_border=true" alt="Anurag's github stats" /></p> | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&count_private=true&theme=buefy&hide=&layout=compact&hide_border=true" /></p> |
 | ------------- | ------------- |
 
 
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmain-nishu&count_private=true&theme=tokyonight&hide=&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&count_private=true&theme=tokyonight&hide=&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 
 
