@@ -31,7 +31,7 @@
 ![visitors](https://gpvc.arturio.dev/ajmain-nishu)
 
 
-<img align="right" alt="GIF" src="assets/code.gif?raw=true" width="1412" height="662" />
+<p align="center" ><img alt="GIF" src="assets/code.gif?raw=true" width="600" height="420" /></p>
 
 #### Github Stats
 
