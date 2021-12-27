@@ -31,8 +31,11 @@
 ![visitors](https://gpvc.arturio.dev/ajmain-nishu)
 
 
+<img align="right" alt="GIF" src="assets/code.gif?raw=true" width="1412" height="662" />
+
 #### Github Stats
-<img align="right" alt="GIF" src="assets/code.gif?raw=true" width="500" height="320" />
+
+
 
 ![Ajmain's github stats](https://github-readme-stats.vercel.app/api?username=ajmain-nishu&count_private=true&theme=tokyonight&hide=)
 
